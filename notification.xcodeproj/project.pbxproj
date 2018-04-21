@@ -15,6 +15,7 @@
 		27CDECEC208BA874008C12FA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 27CDECEB208BA874008C12FA /* main.m */; };
 		27CDECF4208BAB21008C12FA /* StepperViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 27CDECF3208BAB21008C12FA /* StepperViewController.m */; };
 		27CDECF7208BAB2B008C12FA /* LabelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 27CDECF6208BAB2B008C12FA /* LabelViewController.m */; };
+		27CDECFA208BB90C008C12FA /* KeyboardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 27CDECF9208BB90C008C12FA /* KeyboardViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		27CDECF3208BAB21008C12FA /* StepperViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StepperViewController.m; sourceTree = "<group>"; };
 		27CDECF5208BAB2B008C12FA /* LabelViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LabelViewController.h; sourceTree = "<group>"; };
 		27CDECF6208BAB2B008C12FA /* LabelViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LabelViewController.m; sourceTree = "<group>"; };
+		27CDECF8208BB90C008C12FA /* KeyboardViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KeyboardViewController.h; sourceTree = "<group>"; };
+		27CDECF9208BB90C008C12FA /* KeyboardViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KeyboardViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +72,8 @@
 				27CDECDF208BA874008C12FA /* ViewController.h */,
 				27CDECE0208BA874008C12FA /* ViewController.m */,
 				27CDECE2208BA874008C12FA /* Main.storyboard */,
+				27CDECF8208BB90C008C12FA /* KeyboardViewController.h */,
+				27CDECF9208BB90C008C12FA /* KeyboardViewController.m */,
 				27CDECF2208BAB21008C12FA /* StepperViewController.h */,
 				27CDECF3208BAB21008C12FA /* StepperViewController.m */,
 				27CDECF5208BAB2B008C12FA /* LabelViewController.h */,
@@ -153,6 +158,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				27CDECF4208BAB21008C12FA /* StepperViewController.m in Sources */,
+				27CDECFA208BB90C008C12FA /* KeyboardViewController.m in Sources */,
 				27CDECF7208BAB2B008C12FA /* LabelViewController.m in Sources */,
 				27CDECE1208BA874008C12FA /* ViewController.m in Sources */,
 				27CDECEC208BA874008C12FA /* main.m in Sources */,

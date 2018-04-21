@@ -31,4 +31,9 @@
     self.countLabel.text = [NSString stringWithFormat:@"%@", thisNum];
 }
 
+-(void)dealloc {
+    NSNotificationCenter *notificationCenter = [NSNotificationCenter defaultCenter];
+    [notificationCenter removeObserver:self];
+}
+
 @end
