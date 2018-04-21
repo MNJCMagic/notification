@@ -13,6 +13,8 @@
 		27CDECE6208BA874008C12FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27CDECE5208BA874008C12FA /* Assets.xcassets */; };
 		27CDECE9208BA874008C12FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27CDECE7208BA874008C12FA /* LaunchScreen.storyboard */; };
 		27CDECEC208BA874008C12FA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 27CDECEB208BA874008C12FA /* main.m */; };
+		27CDECF4208BAB21008C12FA /* StepperViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 27CDECF3208BAB21008C12FA /* StepperViewController.m */; };
+		27CDECF7208BAB2B008C12FA /* LabelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 27CDECF6208BAB2B008C12FA /* LabelViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,10 @@
 		27CDECE8208BA874008C12FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		27CDECEA208BA874008C12FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		27CDECEB208BA874008C12FA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		27CDECF2208BAB21008C12FA /* StepperViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StepperViewController.h; sourceTree = "<group>"; };
+		27CDECF3208BAB21008C12FA /* StepperViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StepperViewController.m; sourceTree = "<group>"; };
+		27CDECF5208BAB2B008C12FA /* LabelViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LabelViewController.h; sourceTree = "<group>"; };
+		27CDECF6208BAB2B008C12FA /* LabelViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LabelViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,10 @@
 				27CDECDF208BA874008C12FA /* ViewController.h */,
 				27CDECE0208BA874008C12FA /* ViewController.m */,
 				27CDECE2208BA874008C12FA /* Main.storyboard */,
+				27CDECF2208BAB21008C12FA /* StepperViewController.h */,
+				27CDECF3208BAB21008C12FA /* StepperViewController.m */,
+				27CDECF5208BAB2B008C12FA /* LabelViewController.h */,
+				27CDECF6208BAB2B008C12FA /* LabelViewController.m */,
 				27CDECE5208BA874008C12FA /* Assets.xcassets */,
 				27CDECE7208BA874008C12FA /* LaunchScreen.storyboard */,
 				27CDECEA208BA874008C12FA /* Info.plist */,
@@ -142,6 +152,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27CDECF4208BAB21008C12FA /* StepperViewController.m in Sources */,
+				27CDECF7208BAB2B008C12FA /* LabelViewController.m in Sources */,
 				27CDECE1208BA874008C12FA /* ViewController.m in Sources */,
 				27CDECEC208BA874008C12FA /* main.m in Sources */,
 				27CDECDE208BA874008C12FA /* AppDelegate.m in Sources */,

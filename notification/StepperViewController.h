@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  StepperViewController.h
 //  notification
 //
 //  Created by Mike Cameron on 2018-04-21.
@@ -8,9 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface StepperViewController : UIViewController
 
 @end
-
-
